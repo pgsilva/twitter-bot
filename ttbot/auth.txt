@@ -1,0 +1,10 @@
+{
+    "auth":[
+        {
+            "api_key" :"XXXXXXXXXXXXXXXXXXXXXXXXX",
+            "api_secret_key":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "access_token":"XXXXXXXXXXXXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "access_token_secret": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        }
+    ]
+}
